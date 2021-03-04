@@ -11,13 +11,12 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld';
+
 
 export default {
   name: 'App',
 
   components: {
-    HelloWorld,
     AppBar: () => import('@/components/core/AppBar'),
     UserListCard: () => import("@/views/list-view/UserListCard")
   },

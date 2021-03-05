@@ -24,6 +24,7 @@
           </v-col>
           <v-col cols="12" md="2" sm="12">
             <v-btn
+              id = "edit-button"
               fab
               class="pa-1 ma-1"
               @click="$refs.dialogUser.show(usuario, true)"

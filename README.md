@@ -2,8 +2,8 @@
 
 
 
-![Aplicação](https://brave-goldwasser-6511c7.netlify.app/)
-
+[Aplicação](https://brave-goldwasser-6511c7.netlify.app/)
+![Demostração](https://github.com/Rony20191/frontend-vue/blob/main/desafio_front.png?raw=true)
 
 
 ## Project setup
